@@ -1,25 +1,36 @@
-# README
+# Social finance app
+
+This is a stock tracker & social media app, built with Ruby on Rails, where registered users can find recent stock prices, add them to a favorites list, and find/favorite the stocks that other users are tracking.
+
 ![screenshot](./app/assets/images/finance.png)<br>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Built With
 
-Things you may want to cover:
+- Ruby on Rails
+- HTML & CSS
+- Javascript
+- iexcloud API
 
-* Ruby version
+## Authors
 
-* System dependencies
+👤 **Visvaldas Rapalis**
 
-* Configuration
+- Github: [@visva-dev](https://github.com/visva-dev)
+- Twitter: [@Visva_Dev](https://twitter.com/Visva_Dev)
+- Linkedin: [@Visvaldas-Rapalis](https://www.linkedin.com/in/visvaldas-rapalis/)
 
-* Database creation
+## 🤝 Contributing
 
-* Database initialization
+Contributions, issues and feature requests are welcome! Start by:
 
-* How to run the test suite
+- Forking the project
+- Cloning the project to your local machine
+- `cd` into the Youtube-Replica project directory
+- Run `git checkout -b your-branch-name`
+- Make your contributions
+- Push your branch up to your forked repository
+- Open a Pull Request with a detailed description to the development branch of the original project for a review
 
-* Services (job queues, cache servers, search engines, etc.)
+## 📝 License
 
-* Deployment instructions
-
-* ...
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
